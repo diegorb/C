@@ -1,7 +1,7 @@
 
 #include "MK64F12.h"
 
-
+// Author José Luis Pizano Escalante
 int main(void)
 {
 
